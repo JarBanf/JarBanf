@@ -1,4 +1,7 @@
 ### Hi there 👋, my name is Jared
+## Getting hands-on IT experience.
+
+I am in the process of switching my career into the IT world.
 
 <!--
 **JarBanf/JarBanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
