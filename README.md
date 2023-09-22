@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jared
-## Getting hands-on IT experience.
+#### Getting hands-on IT experience.
 
 I am in the process of switching my career into the IT world.
 
