@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jared
 #### Getting hands-on IT experience.
 
-I'm currently developing my cloud computing, networking and programming skills. I want to make a career switch into the IT world and become a Cloud Engineer. 
+I'm currently developing my cloud computing and networking and skills. I want to make a career switch into the IT world and become a Cloud Engineer. 
 
 In the repositories you can view my projects.
 
