@@ -3,7 +3,7 @@
 
 I'm currently developing my cloud computing and networking skills. I want to make a career switch into the IT world and become a Cloud Engineer. 
 
-In the repositories you can view my projects and assignments.
+Check out my repositories to view my projects and assignments.
 
 <!--
 **JarBanf/JarBanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
